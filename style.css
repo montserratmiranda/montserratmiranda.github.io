@@ -61,6 +61,12 @@ a{
     margin-bottom: 10px;
 }
 
+.section-2 h4{
+    font-size: 1.7rem;
+    margin-bottom: 10px;
+    color:rgb(250, 241, 120)
+}
+
 .section-2 p{
     font-size: 1.1rem;
     padding-bottom: 10px;
